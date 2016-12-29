@@ -1,8 +1,12 @@
 /**
  * Created by moselleg on 12/20/16.
  */
-$(document).ready(function() {
-    $('#example, #best_games').DataTable( {
-        "order": [[ 0, "desc" ]]
-    } );
+$('#example, #best_games').DataTable( {
+ "order": [[ 0, "desc" ]]
 } );
+
+//$(document).ready(function() {
+//    $('#example, #best_games, #max_games').DataTable( {
+//        "order": [[ 0, "desc" ]]
+//    } );
+//} );
