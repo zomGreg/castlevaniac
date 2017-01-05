@@ -4,5 +4,5 @@ last_game = Date: 2016-12-30, Time: 32 min 0 sec, 0 deaths, and was faster than 
 
 [ Deaths ]
 test = true
-other_test=false
+other_test = false
 
