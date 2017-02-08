@@ -1,6 +1,6 @@
 [Games]
-total_games = 1609
-last_game = Date: 2017-02-07, Time: 32 min 7 sec, 0 deaths, and was faster than 97.2 percent of all games.
+total_games = 1610
+last_game = Date: 2017-02-08, Time: 34 min 11 sec, 3 deaths, and was faster than 49.88 percent of all games.
 
 [ Deaths ]
 test = true
