@@ -1,6 +1,6 @@
 Date,Time,Deaths,Notes,Cause of Death
-17/18/17,36:51:00,stage3, chandelier,,
-17/18/17,36:51:00,stage3, chandelier,,
+17/19/17,35:11:00,2,,stageA | stageB
+17/18/17,36:51:00,2,,stage3 | chandelier
 17/17/17,38:53:00,?,,too many
 17/07/14,37:12:00,?,,too many
 17/07/13,34:51:00,2,,zip | s8sj
@@ -1555,4 +1555,3 @@ Date,Time,Deaths,Notes,Cause of Death
 14/05/04,37:42:00,3,,
 14/05/04,39:00:00,5,weekly race (4th),
 14/05/04,39:00:00,5,weekly race (4th),
-14/05/03,34:12:00,0,,-
